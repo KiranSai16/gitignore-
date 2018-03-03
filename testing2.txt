@@ -1,0 +1,12 @@
+
+<html>
+<head>
+<title>This is the called title</title>
+</head>
+<body>
+<h1>This is the body of the page test on github</h1>
+<p>anything can be here in this paragraph and it will be displayed  on the browser window.</p>
+</body>
+</html>
+<h1>This is the main HEADING</h1>
+<h2>This is level 2 HEADING</h2>

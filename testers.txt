@@ -1,0 +1,48 @@
+
+
+<html>
+<head>
+<title>This is the called title</title>
+</head>
+<body>
+<h1>This is the body of the page test on github</h1>
+<p>anything can be here in this paragraph and it will be displayed  on the browser window.</p>
+</body>
+</html>
+<h1>This is the main HEADING</h1>
+<h2>This is level 2 HEADING</h2>
+<hr />
+<p>Software testing <br />is a process of executing a program or application with the intent of finding
+ the software bugs. It can also be stated as the process of validating
+ and verifying that a software program or application or product: Meets the business
+ and technical requirements that guided it's design and development.</p>
+<p>As the number of possible tests <br />for even simple software components is practically infinite, all software testing uses some strategy to select tests that are feasible for the available time and resources. As a result, software testing typically (but not exclusively) attempts to execute a program or application with the intent of finding software bugs (errors or other defects). The job of testing is an iterative process as when one bug is fixed, it can illuminate other, deeper bugs, or can even create new ones.
+
+<hr />
+Software testing can provide objective, independent information about the quality of software and risk of its failure to users or        sponsors.</p>
+<h3>This is level 3 HEADING</h3>
+<p>This word is going to be <b>bold.</b>
+</p>
+<p>This word <s>should</s> appear <b><i>italic</i></b></p>
+<p>On the 5<sup>th</sup> of July.</p>
+<p>In the E=M<sup>2</sup> and CO<sup>2</sup>.</p>
+<p>In the water called H<sub>2</sub>0</P>
+<p>There are <ins>two</ins> <q><em>elements
+commonly used for <del>marking</del> up</q></em>
+quotations.</p>
+<ol>
+<li>Chop potatoes into quarters</li>
+<li>Simmer in salted water for 15-20
+ minutes until tender</li>
+<li>Heat milk, butter and nutmeg</li>
+<li>Drain potatoes and mash</li>
+<li>Mix in the milk mixture</li>
+</ol>
+<ul>
+<li>1kg King Edward potatoes</li>
+<li>100ml milk</li>
+<li>50g salted butter</li>
+<li>Freshly grated nutmeg</li>
+<li>Salt and pepper to taste</li>
+</ul>
+
